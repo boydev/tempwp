@@ -1,0 +1,8 @@
+# db config
+wp-config.php
+
+# uploads
+wp-content/uploads
+
+# PhpStorm
+.idea
