@@ -6,3 +6,4 @@
 
 Copy `wp-config-sample.php` to `wp-config.php` and replace login data!
 
+manual changes in github
